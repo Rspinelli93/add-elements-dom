@@ -19,7 +19,3 @@ boton.addEventListener("click", function() {
         lista.appendChild(nuevoLi);
     }
 });
-
-
-
-
